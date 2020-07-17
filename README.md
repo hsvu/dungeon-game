@@ -6,20 +6,16 @@ blocks in a grid, which is then rendered in the game itself.
 A simple form of the application is a maze, where the player must find their
 way from the starting point to the exit.
 
-![Maze][examples/maze.png]
+![Maze][maze]
 
 Other goals could include pushing boulders onto floor switches
 
-![Boulders][examples/boulders.png]
+![Boulders][boulders]
 
 or enemies that need to be fought with weapons, potions, or treasure.
 
-![Advanced dungeon][examples/advanced.png]
+![Advanced dungeon][advanced]
 
-To run the application, type in the terminal
-```
-
-```
 
 To create your own dungeon, place your JSON file in `dungeons` directory.
 Example dungeons are included.
