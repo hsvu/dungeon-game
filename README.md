@@ -6,7 +6,7 @@ blocks in a grid, which is then rendered in the game itself.
 A simple form of the application is a maze, where the player must find their
 way from the starting point to the exit.
 
-![Maze][maze]
+![Maze][examples/maze.png]
 
 Other goals could include pushing boulders onto floor switches
 
